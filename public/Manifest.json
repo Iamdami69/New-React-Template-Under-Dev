@@ -1,0 +1,59 @@
+{
+  "background_color": "#212429",
+  "description": "Your App Description",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Your App Name",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Your App Short Name",
+  "start_url": "/",
+  "theme_color": "#2e3439",
+  "lang": "en-US",
+  "categories": [
+    "books",
+    "education",
+    "entertainment",
+    "finance",
+    "fitness",
+    "food",
+    "games",
+    "government",
+    "health",
+    "kids",
+    "lifestyle",
+    "magazines",
+    "medical",
+    "music",
+    "navigation",
+    "news",
+    "personalization",
+    "photo",
+    "politics",
+    "productivity",
+    "security",
+    "shopping",
+    "social",
+    "sports",
+    "travel",
+    "utilities",
+    "weather"
+  ],
+  "shortcuts": [
+    {
+      "name": "Today's agenda",
+      "url": "/today",
+      "description": "List of events planned for today"
+    },
+    {
+      "name": "New event",
+      "url": "/create/event"
+    },
+    {
+      "name": "New reminder",
+      "url": "/create/reminder"
+    }
+  ],
+  "to_generate_icons_go_to": "https://www.pwabuilder.com/imageGenerator",
+  "icons": []
+}
